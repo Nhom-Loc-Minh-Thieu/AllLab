@@ -19,7 +19,7 @@ public class Bai1 {
  double d;
  long l;
  char ch;
- String str;
+ String str;//ádasdsa
  Scanner sc = new Scanner(System.in);
  System.out.println("Nhap mot so nguyen:");
  a = sc.nextInt();
