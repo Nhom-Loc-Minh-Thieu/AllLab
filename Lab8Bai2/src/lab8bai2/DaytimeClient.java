@@ -11,7 +11,7 @@ import java.io.*;
  * @author Admin
  */
 public class DaytimeClient {
-        static final int defaultPort = 13;
+        static final int defaultPort = 8089;
     /**
      * @param args the command line arguments
      */
