@@ -9,10 +9,6 @@ import java.io.IOException;
 import java.net.*;
 import java.util.*;
 
-/**
- *
- * @author linhn
- */
 public class ChatUDPServer {
 
     static int port = 23;//Mở cổng 23

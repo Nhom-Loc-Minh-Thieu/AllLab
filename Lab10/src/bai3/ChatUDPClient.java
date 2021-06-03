@@ -14,10 +14,6 @@ import javax.swing.*;
 import javax.swing.event.DocumentEvent;
 import javax.swing.event.DocumentListener;
 
-/**
- *
- * @author linhn
- */
 public class ChatUDPClient extends JFrame implements ActionListener {
 
     static String nickName = "Dev";
